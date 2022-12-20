@@ -2,6 +2,12 @@
 A tool to control video games using hand gestures.
 This tool can play games like Hill Climb Racing games, racing, and some of the action games. Instead of using a keyboard and mouse, you can upgrade to the Gesture based game controller, You can control your character's movement by just moving your hands around in view of your camera, and use different hand gestures and hand movements to perform different actions in the game.
 
+Current Features:
+UP
+Down
+Left
+Right
+
 ## How I built it?
 I built this tool using some of latest, cutting edge ,amazing libraries of Python like OpenCV, mediapipe and ctype.
 ### OpenCV
